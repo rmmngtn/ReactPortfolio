@@ -24,10 +24,16 @@
 
 .hero h1, .hero h2 {
   color: white;
+  text-shadow: 1px 1px 4px black;
 }
 
 .hero h1 {
   font-size: 60px;
   padding-top: 140px;
   margin-top: 0;
+}
+
+.hero h3, h4 { 
+  color: lightgray; 
+  text-shadow: 1px 1px 4px black;
 }
