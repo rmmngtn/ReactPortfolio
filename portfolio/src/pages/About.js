@@ -20,8 +20,8 @@ function About() {
                 </Row>
                 <Row>
                     <Col size="md-5"> 
-                   
-                    <img src="./img/me.png" height="300px" ></img> </Col>
+                    <img src="./img/me.png" height="300px" alt="thumbnail"></img> 
+                    </Col>
                     <Col size="md-7">
                 
                         <p>
