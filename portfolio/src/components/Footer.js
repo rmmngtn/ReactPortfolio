@@ -8,7 +8,8 @@ function Footer() {
         <div class="container">
             <span class="footer-copyright text"
             // eslint-disable-next-line
-                style="color:white; position:absolute; left:0; bottom: 0; width:100%; overflow:hidden; text-align: center;">©Copyright
+                // style={{color:white; position:absolute; left:0; bottom: 0; width:100%; overflow:hidden; text-align: center;}}
+                >©Copyright
                 2020 Remmington Pascone</span>
         </div>
     </footer>
