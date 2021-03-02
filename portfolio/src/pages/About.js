@@ -19,7 +19,11 @@ function About() {
                     </Col>
                 </Row>
                 <Row>
-                    <Col size="md-12">
+                    <Col size="md-5"> 
+                   
+                    <img src="./img/me.png" height="300px" ></img> </Col>
+                    <Col size="md-7">
+                
                         <p>
                             Remmington Pascone began coding as an alternative to sitting around during
                             quarantine, as
