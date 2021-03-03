@@ -42,6 +42,24 @@ function Portfolio() {
             repo: "https://github.com/rmmngtn/17_FitnessTracker"
 
         },
+        {   
+            id: 5,
+            title: "Budget Tracker",
+            img: "./img/budget.png",
+            description: "​This application keeps track of your budget (even if your wifi goes out)!" ,
+            url: "https://tranquil-brook-30884.herokuapp.com/",
+            repo: "https://github.com/rmmngtn/18_BudgetTracker"
+
+        },
+        {   
+            id: 6,
+            title: "Note Taker",
+            img: "./img/notes.png",
+            description: "​​This project uses Express.js to take in and display user notes in JSON." ,
+            url: "https://gentle-springs-17632.herokuapp.com/",
+            repo: "https://github.com/rmmngtn/11_NoteTaker"
+
+        },
        
        
     ]

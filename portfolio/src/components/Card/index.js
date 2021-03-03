@@ -4,7 +4,7 @@ import "./style.css";
 function Card(props) {
   return (
     <div className="card" >
-      <div className="card-body w-40">
+      <div className="card-body ">
         <h5 className="card-title">{props.title}</h5>
         <img className="card-img-top" src={props.img} alt="Project Screenshot"></img>
         <p className="card-text">{props.description}</p>

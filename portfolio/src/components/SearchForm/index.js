@@ -4,7 +4,7 @@ import "./style.css";
 // Using the datalist element we can create autofill suggestions based on the props.breeds array
 function SearchForm(props) {
   return (
-    <form className="search">
+    <form className="contactpage">
       <div className="form-group">
         <label htmlFor="breed">Breed Name:</label>
         <input
@@ -30,4 +30,8 @@ function SearchForm(props) {
   );
 }
 
-export default SearchForm;
+
+{/* <form action="mailto:email@example.com" enctype="text/plain">
+<textarea></textarea>
+</form>
+export default SearchForm; */}
