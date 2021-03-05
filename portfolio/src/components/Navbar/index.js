@@ -64,4 +64,3 @@ toggle() {
 }
 
 export default NavBar;
-

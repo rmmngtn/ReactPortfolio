@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "../Card";
 import Row from "../Row"; 
-import "./style.css";
+
 
 function Projects({ data }) { 
     console.log(data);
@@ -19,4 +19,3 @@ function Projects({ data }) {
 }
 
 export default Projects;
-
